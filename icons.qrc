@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icons8-lock-50.png</file>
+        <file>images/icons8-customer-24.png</file>
+        <file>images/enter.png</file>
+        <file>images/backspace.png</file>
+        <file>images/up-arrow.png</file>
+        <file>images/mu.png</file>
+        <file>images/test-tube.png</file>
+        <file>images/testing-tube.png</file>
+        <file>images/notes.png</file>
+        <file>images/table-grid.png</file>
+        <file>images/log-in.png</file>
+        <file>images/return.png</file>
+        <file>images/add-people-interface-symbol-of-black-person-close-up-with-plus-sign-in-small-circle.png</file>
+        <file>images/forgot-password.png</file>
+        <file>images/plus.png</file>
+        <file>images/icons8-delete-24.png</file>
+        <file>images/magnifying-glass_151773.png</file>
+        <file>images/wifi_2099239.png</file>
+        <file>images/calculator_2838862.png</file>
+    </qresource>
+</RCC>
